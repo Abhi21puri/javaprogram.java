@@ -7,6 +7,6 @@ public class javabasic {
         int age = sc.nextInt();
         System.out.println("Your age is: " + age);
         sc.close();
-    }
+    } 
 }
 
