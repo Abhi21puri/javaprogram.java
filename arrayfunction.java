@@ -8,12 +8,12 @@ public class arrayfunction {
     
     
     public static void main(String args[]){
-       // int marks[] = {97, 99,98};
-       // update(marks);
+        int marks[] = {97, 99,98};
+       update(marks);
         // print our marks
-       // for(int i=0; i<marks.length; i++){
-          //  System.out.print(marks[i] +" ");
-       // }
-       // System.out.println();
-    }
+       for(int i=0; i<marks.length; i++){
+            System.out.print(marks[i] +" ");
+        }
+         System.out.println();
+     }
 }

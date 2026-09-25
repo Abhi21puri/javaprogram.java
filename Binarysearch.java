@@ -9,7 +9,7 @@ public class Binarysearch {
             }
             if(number[mid] <key){ // right
                 start = mid+1;
-            } else{// left
+            } else { // left
                 end = mid-1;
             }
         }

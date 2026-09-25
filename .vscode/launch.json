@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Minidiff",
+            "request": "launch",
+            "mainClass": "Minidiff",
+            "projectName": "javaprogram.java_dbe1c49b"
+        },
+        {
+            "type": "java",
+            "name": "duplicatenumber",
+            "request": "launch",
+            "mainClass": "duplicatenumber",
+            "projectName": "javaprogram.java_dbe1c49b"
+        },
+        {
+            "type": "java",
+            "name": "Twosum",
+            "request": "launch",
+            "mainClass": "Twosum",
+            "projectName": "javaprogram.java_dbe1c49b"
+        },
+        {
+            "type": "java",
+            "name": "Threesum",
+            "request": "launch",
+            "mainClass": "Threesum",
+            "projectName": "javaprogram.java_dbe1c49b"
+        },
+        {
+            "type": "java",
+            "name": "threesum",
+            "request": "launch",
+            "mainClass": "threesum",
+            "projectName": "javaprogram.java_dbe1c49b"
+        },
+        {
+            "type": "java",
+            "name": "Rotatedsortedarray",
+            "request": "launch",
+            "mainClass": "Rotatedsortedarray",
+            "projectName": "javaprogram.java_dbe1c49b"
+        },
+        {
+            "type": "java",
+            "name": "findduplicate",
+            "request": "launch",
+            "mainClass": "findduplicate",
+            "projectName": "javaprogram.java_dbe1c49b"
+        },
+        {
+            "type": "java",
+            "name": "arraymatrix",
+            "request": "launch",
+            "mainClass": "arraymatrix",
+            "projectName": "javaprogram.java_dbe1c49b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

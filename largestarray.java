@@ -11,13 +11,13 @@ public class largestarray {
                 smallest= number[i];
             }
         }
-        System.out.println("smallest vlaue is :"+ smallest);
+        System.out.println("smallest vlaue is : "+ smallest);
         return largest;
     }
     
     public static void main(String args[]){
         int number[] = {1, 2, 6,3,5};
-        System.out.println("largest value is " + getlargest(number));
+        System.out.println("largest value is :  " + getlargest(number));
     }
 
 
